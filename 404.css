@@ -1,0 +1,8 @@
+body{
+background-color: aqua;
+}
+.fail{
+position: absolute;
+left: 300px;
+top: 400px;
+}
